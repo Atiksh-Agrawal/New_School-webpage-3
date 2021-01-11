@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.img {
+    border-radius: 500px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.campus_mainDiv {
+    float: left;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+   
+}
+
+#Campus_life{
+ align-content: center;
+}
+
+.abc{
+    width: 50%;
+}
+
+#What’s_New{
+    margin-top: 20px;
+}
